@@ -115,7 +115,7 @@ class AdminController extends Controller {
     $duration = intval($config->getValue());
     $select = <select name="fb--conf--game_duration"></select>;
 
-    for ($i=1; $i<=24; $i++) {
+    for ($i=1; $i<=72; $i++) {
       $x = 60 * 60 * $i;
       $s = ($i > 1) ? 's' : '';
       $x_str = $i . ' Hour' . $s;

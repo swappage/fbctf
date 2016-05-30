@@ -46,8 +46,8 @@ class IndexController extends Controller {
       <div class="fb-row-container full-height fb-scroll">
         <main role="main" class="fb-main page--landing row-fluid no-shrink center-vertically fb-img-glitch">
           <div class="fb-container fb-centered-main">
-            <h1 class="fb-glitch" data-text="Conquer the World">Conquer the world</h1>
-            <p class="typed-text">Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.</p>
+            <h1 class="fb-glitch" data-text="Conquer the World">ESC CTF 2016</h1>
+            <p class="typed-text">Welcome to the End Summer Camp 2016 Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge.</p>
 
             <div class="fb-actionable">
               <a href="/index.php?page=countdown" class="fb-cta cta--yellow">Play</a>
@@ -171,16 +171,6 @@ class IndexController extends Controller {
                 <p>DoSing the CTF platform or any of the challenges is forbidden.
                 </p>
                 <p></p>
-              </div>
-            </section>
-            <section>
-              <header class="rule-section-header">
-                <h3>Legal</h3>
-                <h6>Disclaimer</h6>
-              </header>
-              <div class="rule-main">
-                <p>By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.
-                </p>
               </div>
             </section>
             <p>If you have any questions about what is or is not allowed, please ask an organizer.</p>
