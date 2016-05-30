@@ -46,7 +46,7 @@ class IndexController extends Controller {
       <div class="fb-row-container full-height fb-scroll">
         <main role="main" class="fb-main page--landing row-fluid no-shrink center-vertically fb-img-glitch">
           <div class="fb-container fb-centered-main">
-            <h1 class="fb-glitch" data-text="Conquer the World">ESC CTF 2016</h1>
+            <h1 class="fb-glitch" data-text="Esc ctf 2016">ESC CTF 2016</h1>
             <p class="typed-text">Welcome to the End Summer Camp 2016 Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge.</p>
 
             <div class="fb-actionable">
